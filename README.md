@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A computer engineering student who wants to improve himself as an android developer.</h3>
 
-- 📫 How to reach me **tolganacar@stu.aydin.edu.tr**
+- 📫 How to reach me **tolga_nacar@outlook.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
