@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tolga</h1>
+<h1 align="center">Hi 👋🏼, I'm Tolga</h1>
 <h3 align="center">A computer engineering student who wants to improve himself as an android developer.</h3>
 
 - 📫 How to reach me **tolga_nacar@outlook.com**
